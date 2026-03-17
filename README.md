@@ -10,6 +10,11 @@ Topics covered:
 - Stirling’s approximation
 - Applications and example problems
 
-Originally written in 2023 and revised in 2026.
+An earlier version of this paper was written in 2023 as part of the Teddy Rocks Maths essay competition.
+
+It was featured in the showcase:
+https://tomrocksmaths.com/2023/06/01/teddy-rocks-maths-2023-showcase-group-2/
+
+It was revised in 2026.
 
 Author: Levent Takır
